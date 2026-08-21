@@ -18,7 +18,7 @@ I'm Thanojan, a final-year **BSc (Hons) Computer Science with Artificial Intelli
 - 🎯 Aiming for a **QA Engineer** role, with New Zealand as a long-term goal
 - 🧪 Practicing **manual, API, and automation testing** through hands-on projects
 - 🛠️ Tools: Postman, Selenium, Python, SQL, Git/GitHub, Jira/Trello
-- 📚 Concepts: STLC/SDLC, Risk-Based Testing, Root Cause Analysis (5 Whys), Severity vs Priority, API Auth & Idempotency, DB Integrity Validation
+- 📚 Concepts: STLC/SDLC, Risk-Based Testing, Root Cause Analysis (5 Whys), Severity vs Priority, API Auth & Idempotency
 - 🚪 No LinkedIn yet — **this GitHub is my front door.** Everything here is real and reproducible.
 
 ---
@@ -30,4 +30,4 @@ End-to-end QA ownership across 3 systems: manual testing + Agile triage, API + d
 
 ---
 
-<p align="center"><i>Building proof, not just a
+<p align="center"><i>Building proof, not just a profile.</i></p>
