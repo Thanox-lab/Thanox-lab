@@ -1,9 +1,6 @@
 <h1 align="center">Thanojan S</h1>
-<p align="center"><b>Aspiring QA Engineer | Final-Year BSc (Hons) CS with AI, Coventry University UK (via NIBM)</b></p>
-
-<p align="center">
-Manual Testing &nbsp;•&nbsp; API Testing &nbsp;•&nbsp; Test Automation (Selenium + Python) &nbsp;•&nbsp; SQL &nbsp;•&nbsp; DB Integrity Testing
-</p>
+<p align="center"><b>Aspiring QA Engineer | Final-Year BSc (Hons) Computer Science with AI</b></p>
+<p align="center">Coventry University, UK (Affiliated) — via NIBM</p>
 
 <p align="center">
 📧 thanosan009@gmail.com &nbsp;|&nbsp; 📍 Jaffna, Sri Lanka
@@ -21,13 +18,45 @@ Final-Year Student
 
 ### 👋 About Me
 
-I'm Thanojan, building a genuine, end-to-end QA foundation in the open — real test plans, real bug investigations, and real automation — not just claiming skills on paper.
+Final-year Computer Science graduate actively building hands-on QA expertise through real, self-owned projects — not just theory.
 
-- 🎯 Aiming for a **QA Engineer** role, with New Zealand as a long-term goal
-- 🧪 Practicing **manual, API, database, and automated testing** across full QA workflows
-- 🤖 Building **Selenium + Python regression suites** with explicit waits and flaky-test triage — not just scripted clicks
-- 🛠️ Tools: Postman, Selenium, Python, SQL, Git/GitHub, Jira/Trello, Chrome DevTools
-- 📚 Concepts: STLC/SDLC, Risk-Based Testing, Root Cause Analysis (5 Whys), Severity vs Priority, API Auth & Idempotency, DB Integrity Validation, Test Automation Strategy
+**🎯 Goal:** QA Engineer role, with New Zealand as a long-term target
+
+**🧪 Focus Areas**
+- Manual Testing — risk-based test design, exploratory testing, cross-viewport testing, Agile defect triage
+- API Testing — Postman, authentication & session security, request chaining, negative & adversarial testing
+- Database Integrity — SQL investigation queries, root-cause analysis, data validation
+- Test Automation — Selenium + Python, explicit waits (WebDriverWait), flaky-test triage, automation ROI reporting
+
+---
+
+### 🛠️ Tools
+
+| Category | Tools |
+|---|---|
+| API Testing | Postman |
+| Automation | Selenium, Python, WebDriver Manager |
+| Database | SQL (sqliteonline.com) |
+| Version Control | Git, GitHub |
+| Agile Boards | Jira, Trello |
+| Documentation | Google Sheets |
+| Debugging | Chrome DevTools |
+
+---
+
+### 📚 Concepts
+
+- STLC / SDLC (full lifecycle testing)
+- Risk-Based Testing
+- Root Cause Analysis (5 Whys)
+- Severity vs Priority
+- Test Case & Defect Design (industry-standard fields)
+- API Authentication & Session Security
+- Request Chaining & Idempotency Testing
+- Database Integrity Validation
+- Agile / Scrum Workflow (Sprint, Standup, Backlog, Retrospective)
+- Test Automation Strategy & Flaky-Test Triage
+- Cross-Viewport / Responsive Testing
 
 ---
 
