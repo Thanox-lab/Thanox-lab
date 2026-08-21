@@ -14,7 +14,7 @@ Manual Testing &nbsp;•&nbsp; API Testing &nbsp;•&nbsp; Test Automation (Sele
 ### 🎓 Education
 
 **BSc (Hons) Computer Science with Artificial Intelligence**
-Affiliated with **Coventry University, UK** — studied via **NIBM (National Institute of Business Management)**
+Coventry University, UK (Affiliated) — via NIBM
 Final-Year Student
 
 ---
