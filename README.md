@@ -1,5 +1,5 @@
 <h1 align="center">Thanojan S</h1>
-<p align="center"><b>Aspiring QA Engineer | Final-Year BSc (Hons) CS with AI</b></p>
+<p align="center"><b>Aspiring QA Engineer | Final-Year BSc (Hons) CS with AI, Coventry University UK (via NIBM)</b></p>
 
 <p align="center">
 Manual Testing &nbsp;•&nbsp; API Testing &nbsp;•&nbsp; Test Automation (Selenium + Python) &nbsp;•&nbsp; SQL &nbsp;•&nbsp; DB Integrity Testing
@@ -11,9 +11,17 @@ Manual Testing &nbsp;•&nbsp; API Testing &nbsp;•&nbsp; Test Automation (Sele
 
 ---
 
+### 🎓 Education
+
+**BSc (Hons) Computer Science with Artificial Intelligence**
+Affiliated with **Coventry University, UK** — studied via **NIBM (National Institute of Business Management)**
+Final-Year Student
+
+---
+
 ### 👋 About Me
 
-I'm Thanojan, a final-year **BSc (Hons) Computer Science with Artificial Intelligence** student (Coventry University UK, via NIBM). I'm building a genuine, end-to-end QA foundation in the open — real test plans, real bug investigations, and real automation — not just claiming skills on paper.
+I'm Thanojan, building a genuine, end-to-end QA foundation in the open — real test plans, real bug investigations, and real automation — not just claiming skills on paper.
 
 - 🎯 Aiming for a **QA Engineer** role, with New Zealand as a long-term goal
 - 🧪 Practicing **manual, API, database, and automated testing** across full QA workflows
@@ -25,7 +33,7 @@ I'm Thanojan, a final-year **BSc (Hons) Computer Science with Artificial Intelli
 
 ### 🧩 Featured Project
 
-**[QA Analyst Gauntlet Portfolio](https://github.com/Thanox-lab/QA-Analyst-Gauntlet-Portfolio)**
+**[QA Portfolio](https://github.com/Thanox-lab/QA-Analyst-Gauntlet-Portfolio)**
 End-to-end QA ownership across 3 systems: manual testing + Agile triage, API + database integrity investigation, and Selenium-based test automation with ROI reporting.
 
 ---
