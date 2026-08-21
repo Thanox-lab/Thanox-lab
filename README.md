@@ -20,7 +20,7 @@ Final-Year Student
 
 Final-year Computer Science graduate actively building hands-on QA expertise through real, self-owned projects — not just theory.
 
-**🎯 Goal:** QA Engineer role, with New Zealand as a long-term target
+**🎯 Goal:** AI-Driven QA Automation Engineer
 
 **🧪 Focus Areas**
 - Manual Testing — risk-based test design, exploratory testing, cross-viewport testing, Agile defect triage
