@@ -1,7 +1,6 @@
 <h1 align="center">Thanojan S</h1>
-<p align="center"><b>Aspiring QA Engineer | Final-Year BSc (Hons) Computer Science with AI</b></p>
+<p align="center"><b>Aspiring AI-Driven QA Automation Engineer | Final-Year BSc (Hons) Computer Science with AI</b></p>
 <p align="center">Coventry University, UK (Affiliated) — via NIBM</p>
-
 <p align="center">
 📧 thanosan009@gmail.com &nbsp;|&nbsp; 📍 Jaffna, Sri Lanka
 </p>
