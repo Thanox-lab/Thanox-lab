@@ -62,7 +62,7 @@ Final-year Computer Science graduate actively building hands-on QA expertise thr
 
 ### 🧩 Featured Project
 
-**[QA Portfolio](https://github.com/Thanox-lab/QA-Analyst-Gauntlet-Portfolio)**
+**[QA Portfolio](https://github.com/Thanox-lab/QA-Portfolio)**
 End-to-end QA ownership across 3 systems: manual testing + Agile triage, API + database integrity investigation, and Selenium-based test automation with ROI reporting.
 
 ---
