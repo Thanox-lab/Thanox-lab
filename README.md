@@ -2,7 +2,7 @@
 <p align="center"><b>Aspiring QA Engineer | Final-Year BSc (Hons) CS with AI</b></p>
 
 <p align="center">
-Manual Testing &nbsp;•&nbsp; API Testing &nbsp;•&nbsp; SQL &nbsp;•&nbsp; Selenium &nbsp;•&nbsp; Python
+Manual Testing &nbsp;•&nbsp; API Testing &nbsp;•&nbsp; Test Automation (Selenium + Python) &nbsp;•&nbsp; SQL &nbsp;•&nbsp; DB Integrity Testing
 </p>
 
 <p align="center">
@@ -13,20 +13,20 @@ Manual Testing &nbsp;•&nbsp; API Testing &nbsp;•&nbsp; SQL &nbsp;•&nbsp; S
 
 ### 👋 About Me
 
-I'm Thanojan, a final-year **BSc (Hons) Computer Science with Artificial Intelligence** student (Coventry University UK, via NIBM). I'm building a genuine QA foundation in the open — real test plans, real bug investigations, real automation — not just claiming skills on paper.
+I'm Thanojan, a final-year **BSc (Hons) Computer Science with Artificial Intelligence** student (Coventry University UK, via NIBM). I'm building a genuine, end-to-end QA foundation in the open — real test plans, real bug investigations, and real automation — not just claiming skills on paper.
 
 - 🎯 Aiming for a **QA Engineer** role, with New Zealand as a long-term goal
-- 🧪 Practicing **manual, API, and automation testing** through hands-on projects
-- 🛠️ Tools: Postman, Selenium, Python, SQL, Git/GitHub, Jira/Trello
-- 📚 Concepts: STLC/SDLC, Risk-Based Testing, Root Cause Analysis (5 Whys), Severity vs Priority, API Auth & Idempotency
-- 🚪 No LinkedIn yet — **this GitHub is my front door.** Everything here is real and reproducible.
+- 🧪 Practicing **manual, API, database, and automated testing** across full QA workflows
+- 🤖 Building **Selenium + Python regression suites** with explicit waits and flaky-test triage — not just scripted clicks
+- 🛠️ Tools: Postman, Selenium, Python, SQL, Git/GitHub, Jira/Trello, Chrome DevTools
+- 📚 Concepts: STLC/SDLC, Risk-Based Testing, Root Cause Analysis (5 Whys), Severity vs Priority, API Auth & Idempotency, DB Integrity Validation, Test Automation Strategy
 
 ---
 
 ### 🧩 Featured Project
 
 **[QA Analyst Gauntlet Portfolio](https://github.com/Thanox-lab/QA-Analyst-Gauntlet-Portfolio)**
-End-to-end QA ownership across 3 systems: manual testing + Agile triage, API + database integrity investigation, and AI-assisted test automation.
+End-to-end QA ownership across 3 systems: manual testing + Agile triage, API + database integrity investigation, and Selenium-based test automation with ROI reporting.
 
 ---
 
